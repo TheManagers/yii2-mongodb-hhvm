@@ -1,0 +1,22 @@
+{
+  "name": "themanagers/yii2-mongodb-hhvm",
+  "description": "MongoDb extension HHVM Fix",
+  "keywords": ["yii2", "mongo", "mongodb", "active-record"],
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Fabian Fink",
+      "email": "lostchaos3@gmail.com"
+    },
+    {
+      "name": "Jonas Bruechner",
+      "email": "jonas@bruechner.de"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": ">=2.0.4",
+    "yiisoft/yii2-mongodb": ">=2.0.x-dev"
+  }
+}
